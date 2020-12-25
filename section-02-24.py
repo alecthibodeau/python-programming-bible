@@ -39,7 +39,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 """
 print(lorem)
 
-# Built-in string methods
+# Built-in string methods https://developers.google.com/edu/python/strings
+
 var4 = "hello world"
 print(var4.capitalize()) # capitalize first character
 

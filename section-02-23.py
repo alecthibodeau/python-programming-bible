@@ -5,6 +5,8 @@ import math # need to import math module
 
 num1 = 5
 
+# Built-in number functions https://www.tutorialspoint.com/python/python_numbers.htm
+
 print(math.exp(num1))
 
 print(math.sqrt(num1))
