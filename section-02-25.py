@@ -20,3 +20,12 @@ print(listNumber1)
 # Built-in list methods https://developers.google.com/edu/python/lists
 
 print(len(listNumber1)) # get length
+
+# Output
+# [1, 2, 3, 'Hello', 'World', 4, 5, 6]
+# 3
+# 1
+# Bob
+# ['Bob', 2, 3, 'Hello', 'World', 4, 5, 6]
+# ['Bob', 3, 'Hello', 'World', 4, 5, 6]
+# 7
