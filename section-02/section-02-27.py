@@ -17,7 +17,7 @@ print(dictionary1['a'])
 del dictionary1['a']
 print(dictionary1)
 
-# Methods of List Objects — https://docs.python.org/3.6/tutorial/datastructures.html
+# Methods of List Objects - https://docs.python.org/3.6/tutorial/datastructures.html
 print(len(dictionary1))
 
 # Delete Entire Dictionary

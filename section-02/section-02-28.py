@@ -20,7 +20,7 @@ print(timeLocal)
 calendarVar = calendar.month(2008, 1)
 print(calendarVar)
 
-# Basic date and time types —  https://docs.python.org/3/library/datetime.html
+# Basic date and time types -  https://docs.python.org/3/library/datetime.html
 
 # Output
 # 1608988994.315279

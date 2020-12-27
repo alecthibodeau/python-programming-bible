@@ -48,7 +48,7 @@ os.rename("File.txt", "NewName.txt")
 
 os.mkdir("New Folder")
 
-# Input and Output — https://docs.python.org/3/tutorial/inputoutput.html
+# Input and Output - https://docs.python.org/3/tutorial/inputoutput.html
 
 # Output
 # Hello World

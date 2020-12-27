@@ -15,7 +15,7 @@ else:
     print("A OK")
     file.close()
 
-# Errors and Exceptions — https://docs.python.org/3/tutorial/errors.html
+# Errors and Exceptions - https://docs.python.org/3/tutorial/errors.html
 
 # Output
 # 2.0
