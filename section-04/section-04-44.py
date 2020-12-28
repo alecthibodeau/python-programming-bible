@@ -1,5 +1,5 @@
 # Section 4
-# 43. Match Function
+# 44. Search Function
 
 # Regular expression operations - https://docs.python.org/3/library/re.html
 
@@ -15,4 +15,7 @@ result = pattern.match('hello world')
 
 # Output
 # None
-# <_sre.SRE_Match object at 0x7fb7c2f035e0>
+# <_sre.SRE_Match object at 0x7fbee8e39648>
+# <_sre.SRE_Match object at 0x7fbee8e39648>
+# <_sre.SRE_Match object at 0x7fbee8e39648>
+# None
